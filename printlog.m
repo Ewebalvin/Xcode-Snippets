@@ -1,5 +1,5 @@
 // printLog
-// 
+// Print log information with necessary information
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 41854C04-2D96-47E2-BEC8-243768C45430
